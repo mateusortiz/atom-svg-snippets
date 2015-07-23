@@ -1,0 +1,15 @@
+{
+  "name": "svg-snippets",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "description": "SVG snippets for for Atom Editor.",
+  "activationCommands": {
+    "atom-workspace": [
+      "svg-snippets:toggle"
+    ]
+  },
+  "repository": "https://github.com/mateusortiz/atom-svg-snippets",
+  "engines": {
+    "atom": "*"
+  }
+}
